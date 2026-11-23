@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: auto;
+    padding: auto;
+}
+body{
+    background-color: grey;
+    
+}
+.container{
+    display: grid;
+    margin: 50px;
+    padding: 70px;
+    
+    
+}
+
+
+
+
+
+
+
